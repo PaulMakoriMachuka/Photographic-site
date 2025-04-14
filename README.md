@@ -9,7 +9,7 @@ Photographic-site is a clean, responsive website designed for photographers to d
 * No installation required
 * Simply open the `index.html` file in any modern web browser
 * The site runs entirely on the frontend — no server or backend setup needed
-* No dependencies or additional tools are required
+* No dependencies or additional tools are required.
 
 ## Known Bugs
 There are currently no known bugs with this application.

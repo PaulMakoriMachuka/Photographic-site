@@ -20,6 +20,7 @@ There are currently no known bugs with this application.
 
 ## Support and contact details
 If you experience any issues or have any questions or feedback, please feel free to reach out to me via my GitHub: [Paulmachukamakori](https://github.com/Paulmachukamakori)
+Our contact line is 0717382704
 
 ### License
 *This project is licensed under the MIT License*  

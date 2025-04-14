@@ -6,7 +6,7 @@
 Photographic-site is a clean, responsive website designed for photographers to display their work in a professional and visually engaging way. It serves as a digital portfolio where photographers can highlight their skills, share their story, and connect with potential clients or followers. The site features a photo gallery, customizable sections for bio and contact details, and a modern layout suitable for all screen sizes.
 
 ## Setup/Installation Requirements
-* No installation required
+* No installation required.
 * Simply open the `index.html` file in any modern web browser.
 * The site runs entirely on the frontend — no server or backend setup needed.
 * No dependencies or additional tools are required.
